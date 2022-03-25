@@ -1,0 +1,2 @@
+# Remaining requirements that should be installed if not already done so
+tensorflow-gpu==1.15.2
